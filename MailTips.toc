@@ -1,0 +1,22 @@
+## Interface: 50300
+## Title: MailTips
+## Version: 2.3
+## Author: fmeus
+## Notes: MailTips shows you what is attached to a mail without having to open the message by hovering over a message in your mailbox.
+## DefaultState: enabled
+## Revision: $Id: MailTips.toc 1095 2013-05-22 07:15:19Z fmeus_lgs $
+
+MailTips_globals.lua
+
+MailTips_en.lua
+MailTips_es.lua
+MailTips_fr.lua
+MailTips_de.lua
+MailTips_ru.lua
+MailTips_kr.lua
+MailTips_cn.lua
+MailTips_tw.lua
+
+MailTips.lua
+
+MailTips.xml
