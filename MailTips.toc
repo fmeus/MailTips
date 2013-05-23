@@ -4,7 +4,6 @@
 ## Author: fmeus
 ## Notes: MailTips shows you what is attached to a mail without having to open the message by hovering over a message in your mailbox.
 ## DefaultState: enabled
-## Revision: $Id: MailTips.toc 1095 2013-05-22 07:15:19Z fmeus_lgs $
 
 MailTips_globals.lua
 
