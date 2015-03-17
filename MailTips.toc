@@ -1,6 +1,6 @@
-## Interface: 60000
+## Interface: 60100
 ## Title: MailTips
-## Version: 2.5
+## Version: 2.6
 ## Author: fmeus
 ## Notes: MailTips shows you what is attached to a mail without having to open the message by hovering over a message in your mailbox.
 ## DefaultState: enabled
