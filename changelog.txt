@@ -1,5 +1,5 @@
 Version 2.6
-- Changed: Updated for 6.1
+- Changed: Updated for 6.2
 
 Version 2.5
 - Changed: Updated for 6.0.3
