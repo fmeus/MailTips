@@ -4,13 +4,6 @@
         to open the message by hovering over a message in your
         mailbox.
 
-    Download:
-        MailTips - http://fmeus.wordpress.com/mailtips/
-
-    Contact:
-        For questions, bug reports visit the website or send an email
-        to the following address: wowaddon@xs4all.nl
-
     Dependencies:
         None
 
