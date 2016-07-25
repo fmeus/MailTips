@@ -45,12 +45,10 @@
             -- Group items by name
             for attachID = 1, 12 do
                 -- Attachment info
-                itemName, _, itemCount = GetInboxItem( self.index, attachID );
+                itemName, itemid, _, itemCount = GetInboxItem( self.index, attachID );
 
                 -- Add it to the tooltip
-                if ( itemCount > 0 ) then
-                    _, itemid = strsplit( ":", GetInboxItemLink( self.index, attachID ) );
-                    itemid = tonumber( itemid );
+                if ( itemCount and itemCount > 0 ) then
                     items[itemid] = ( items[itemid] or 0 ) + itemCount;
                 end;
             end;
